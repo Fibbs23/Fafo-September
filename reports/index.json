@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260915-180811-ttft",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-09-16T00:08:11.000Z",
+      "dateEnd": "2026-09-16T01:58:01.110Z",
+      "dateLabel": "9/15/2026, 6:08:11 PM - 9/15/2026, 7:58:01 PM",
+      "url": "https://Fibbs23.github.io/Fafo-September/?report=20260915-180811-ttft",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 71
+      }
+    },
+    {
       "id": "20260913-181157-701x",
       "title": "Lightspeed Jack",
       "commanders": [
