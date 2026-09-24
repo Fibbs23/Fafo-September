@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260923-184402-djn2",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-09-24T00:44:02.000Z",
+      "dateEnd": "2026-09-24T01:45:29.874Z",
+      "dateLabel": "9/23/2026, 6:44:02 PM - 9/23/2026, 7:45:29 PM",
+      "url": "https://Fibbs23.github.io/Fafo-September/?report=20260923-184402-djn2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260922-181123-tzhy",
       "title": "Lightspeed Jack",
       "commanders": [
